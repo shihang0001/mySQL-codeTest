@@ -8,19 +8,18 @@
 -- DELETE FROM deletes rows from a table.
 
 SELECT * FROM celebs;
-
+//dislpay the coloum of table
 CREATE TABLE table_name (
     column_1 data_type,
     column_2 data_type,
     column_3 data_type
   );
-  //create sql-table
-
+  //create sql-table have three coloum
 
   INSERT INTO celebs (id, name, age) VALUES (1, 'Justin Bieber', 21);
   //Add a row to the table. In the code editor type
   SELECT * FROM celebs;
-
+//add the increase of the colum and also including 3~
 
   INSERT INTO celebs (id, name, age) VALUES (2, 'Beyonce Knowles', 33);
 
@@ -30,7 +29,7 @@ CREATE TABLE table_name (
 
   SELECT*FROM celebs;
   SELECT name FROM celebs;
-
+//including 3 clolum of the table
 
 UPDATE celebs
 SET age = 22
@@ -103,3 +102,15 @@ LIKE and BETWEEN are special operators that can be used in a WHERE clause
 AND and OR are special operators that you can use with WHERE to filter the query on two or more conditions.
 ORDER BY lets you sort the results of the query in either ascending or descending order.
 LIMIT lets you specify the maximum number of rows that the query will return. This is especially important in large tables that have thousands or even millions of rows.
+
+
+
+
+PART 3:including the stored databse;
+SELECT * FROM fake_apps;
+SELECT COUNT(*) FROM fake_apps;
+SELECT COUNT(*) FROM fake_apps
+WHERE price = 0;
+
+SELECT price, COUNT(*) FROM fake_apps
+GROUP BY price;
