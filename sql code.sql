@@ -54,6 +54,9 @@ SELECT * FROM celebs;
 
 
 
+
+
+
 PART 2:including the stored databse;
 
 SELECT name, imdb_rating FROM movies;;
