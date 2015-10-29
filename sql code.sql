@@ -6,6 +6,11 @@
 -- UPDATE edits a row in a table.
 -- ALTER TABLE changes an existing table.
 -- DELETE FROM deletes rows from a table.
+-- get into sql;
+-- use databses;
+-- create databases;
+-- drop/use;
+
 
 SELECT * FROM celebs;
 //dislpay the coloum of table
