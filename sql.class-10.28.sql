@@ -86,3 +86,6 @@ mysql> select *from products;
 |  8 | honda  | 77    | shihanghsih | 006  |
 +----+--------+-------+-------------+------+
 8 rows in set (0.00 sec)
+
+
+insert into products value();
