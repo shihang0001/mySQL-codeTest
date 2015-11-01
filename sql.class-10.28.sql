@@ -28,7 +28,9 @@ create table employees(
     -> created_on  TIMESTAMP DEFAULT 0,
     -> changed_on TIMESTAMP DEFAULT CURRENT_TIMESTAMP );
 Query OK, 0 rows affected (0.03 sec)
-
+mysql>show databases;
+mysql>use products;
+show tables;
 mysql> insert into tbl_name values("shihang" , default, default);
 Query OK, 1 row affected (0.01 sec)
 
