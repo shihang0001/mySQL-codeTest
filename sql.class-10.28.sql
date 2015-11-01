@@ -62,7 +62,7 @@ mysql> select *from products;
 +----+--------+-------+-------------+------+
 8 rows in set (0.00 sec)
 
-
+-- mysql>use databasess
 
 
 
