@@ -22,18 +22,7 @@ create table employees(
        mysql> SELECT t1
            -> FROM test_timestamp;
 
-student
-recoster
-suppose physic 403
-roomasignmnet
-mistakes;
-physic canceled;
-weak ago;
-check NUm;
-partment settle street;
-exlain-> semester collodge
-few in class->nes semester;
-sign 403 cancel->list 10-> show the pehycisal call->decision->mail address
+
 
 
 
