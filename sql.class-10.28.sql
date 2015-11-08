@@ -78,8 +78,6 @@ suggest class part rite painting soolonag
 
 bstest->class monb without going libarry seab better eqiupet nice confutable arts
 specoal presentaion ;
-hiniijy shaonetgial nall ;
-s
 
  Copyright Holder All Rights Reserved.
 
