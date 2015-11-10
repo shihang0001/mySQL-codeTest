@@ -58,6 +58,11 @@ specis gabittat splower basisi ;
 less suitbale;
 
 
+<html ng-app="myApp">
+<div ng controller="my controller">
+
+</html>
+
 <div ng-app></div>
 clear choice->BLB:songbird farst bushess ;
 ness tshidhi;
