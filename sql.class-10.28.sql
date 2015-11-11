@@ -27,8 +27,7 @@ insert int
 register move int router init ;
 init int boolean(shihdihinsngu;)
 
-sssss
-sh
+
 init shihang;
 init shihang ;
 share download;
