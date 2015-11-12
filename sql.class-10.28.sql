@@ -22,8 +22,26 @@ insert int
        mysql> SELECT t1
            -> FROM test_timestamp;
 
+sdsad
+
+swlct vaule *from profuvts;
+show databases;
+show tales;
+use tables;
+show databases;
+show taves;
+showd databses;
 
 
+init proud init print ;in"lina _20/300"
+select from *from produects
+updatade the tables;
+init show databases;
+show detail init profuvts;
+create table(jint show details)
+  remove the databses;
+  grint show linerart;
+  link the connection between the lee and swift
 register move int router init ;
 init int boolean(shihdihinsngu;)
 
