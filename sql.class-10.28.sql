@@ -31,8 +31,9 @@ use tables;
 show databases;
 show taves;
 showd databses;
-
-
+inser into valau("insert "value )
+setting up the connection bwtwee the databses;'
+and the connection of the tables"named the prftuction of leeave"'
 init proud init print ;in"lina _20/300"
 select from *from produects
 updatade the tables;
@@ -44,7 +45,7 @@ create table(jint show details)
   link the connection between the lee and swift
 register move int router init ;
 init int boolean(shihdihinsngu;)
-
+derection dign out th edesicion of the conneaction tun out
 kkk
 init shihang;
 init shihang ;
@@ -76,7 +77,7 @@ lay eggs around the beach
 specis gabittat splower basisi ;
 less suitbale;
 
-
+ss
 <html ng-app="myApp">
 <div ng controller="my controller">
 
