@@ -23,6 +23,10 @@ insert int
            -> FROM test_timestamp;
 
 sdsad
+imoprt init shoq select into shihangshih;
+init value show databaes;
+show detials of the databses;
+init show liiear init show datdabsases;
 
 swlct vaule *from profuvts;
 show databases;
