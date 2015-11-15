@@ -22,7 +22,7 @@ insert int
        mysql> SELECT t1
            -> FROM test_timestamp;
 
-sdsad
+sdsadwww
 imoprt init shoq select into shihangshih;
 init value show databaes;
 show detials of the databses;
