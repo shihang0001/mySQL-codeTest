@@ -27,7 +27,11 @@ imoprt init shoq select into shihangshih;
 init value show databaes;
 show detials of the databses;
 init show liiear init show datdabsases;
-
+init selelct *from vaulr ;
+update tablessho;
+  init show th detail ;
+  shoe elcys hihsiang;
+publiv unf show detail  sho (){init show the python o fth inir s}
 swlct vaule *from profuvts;
 show databases;
 show tales;
