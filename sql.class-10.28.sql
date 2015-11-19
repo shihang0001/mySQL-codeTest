@@ -64,7 +64,7 @@ update table->init show init show load init shiw ;
    ->dest init
 register ()
 order polment;
-checknout academic->graudaction aquirement ;
+checknout academic->dddgraudaction aquirement ;
 hare init departmrntd share what need to take
 higher score ->creadict reliablle;
 basis cothsih;inter midia;
