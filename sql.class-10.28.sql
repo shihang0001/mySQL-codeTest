@@ -21,8 +21,11 @@ create table employees(
 insert int
        mysql> SELECT t1
            -> FROM test_timestamp;
-lll
-sdsadwwwzzz
+lllddd
+
+
+
+sdsadwwssswzzz
 imoprt init shoq select into shihangshih;
 init value show databaes;
 show detials of the databses;
