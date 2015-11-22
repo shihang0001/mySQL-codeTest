@@ -22,7 +22,7 @@ insert int
        mysql> SELECT t1
            -> FROM test_timestamp;
 lllddd
-xxxxxx
+xxxxxxss
 
 sss
 sdsadwwssswzzz
