@@ -24,7 +24,7 @@ insert int
 lllddd
 xxxxxxss
 
-sss
+ssssss
 sdsadwwssswzzz
 imoprt init shoq select into shihangshih;
 init value show databaes;
