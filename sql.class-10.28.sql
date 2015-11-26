@@ -21,11 +21,29 @@ create table employees(
 insert int
        mysql> SELECT t1
            -> FROM test_timestamp;
-lllddd
-xxxxxxss
+imprt ui init;
+ show databsases;
+ use tables;
+ list show databases;
+  init show init line show line inis iow ;
+  1090   port ini show line 8080;
+  local host open cv-line ;
+  show line ini shi wdatab
 
-sssssssss
-sdsadwwssswzzz
+  delect *from ini show line inishow ;
+  show line {
+  line inis show tables;
+
+
+
+
+
+
+
+  }
+
+
+
 imoprt init shoq select into shihangshih;
 init value show databaes;
 show detials of the databses;
@@ -93,6 +111,13 @@ ss
 <div ng controller="my controller">
 
 </html>
+
+<html>
+
+
+
+</html>
+
 
 <div ng-app></div>
 clear choice->BLB:songbird farst bushess ;
