@@ -111,7 +111,14 @@ AND and OR are special operators that you can use with WHERE to filter the query
 ORDER BY lets you sort the results of the query in either ascending or descending order.
 LIMIT lets you specify the maximum number of rows that the query will return. This is especially important in large tables that have thousands or even millions of rows.
 
+ini show line ini show line databbscesl
 
+-- select count(*) from databases;
+-- where price =10;
+-- group by level line ;
+-- select price line back ground ;
+-- select categloug ,sum(download -feed ) fake _number;
+-- group by cataegpuh
 
 
 PART 3:including the stored databse;
@@ -122,3 +129,8 @@ WHERE price = 0;
 
 SELECT price, COUNT(*) FROM fake_apps
 GROUP BY price;
+
+
+part 4: count number;
+SELECT category, SUM(downloads) FROM fake_apps
+GROUP BY category;
