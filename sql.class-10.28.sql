@@ -35,7 +35,7 @@ imprt ui init;
   line inis show tables;
 
 
-
+dddd
 
 
 
