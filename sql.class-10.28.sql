@@ -34,7 +34,7 @@ imprt ui init;
   show line {
   line inis show tables;
 
-
+dd
 dddd
 
 
