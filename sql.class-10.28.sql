@@ -33,16 +33,17 @@ imprt ui init;
   delect *from ini show line inishow ;
   show line {
   line inis show tables;
-
-dd
+ssssssss
+init shoe line cd databases
 dddd
 
+xxxxx
+line show discuss nishowl line showkdalkasdasdabdabdada;
+sbsjdjs;
+ini show line soshow
 
-
-
-  }
-
-
+dow show line java script
+inis hw fd       
 
 imoprt init shoq select into shihangshih;
 init value show databaes;
