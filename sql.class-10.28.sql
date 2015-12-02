@@ -43,7 +43,7 @@ sbsjdjs;
 ini show line soshow
 
 dow show line java script
-inis hw fd       
+inis hw fd
 
 imoprt init shoq select into shihangshih;
 init value show databaes;
@@ -114,7 +114,7 @@ ss
 </html>
 
 <html>
-
+ssssaddddddaxxxxxx
 
 
 </html>

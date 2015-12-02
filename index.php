@@ -34,7 +34,30 @@
 <head lang="<?php echo $str_language; ?>" xml:lang="<?php echo $str_language; ?>">
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>MAMP PRO</title>
+<based>
+    titlte.init sholwmine(unit link:databases)
+	 func (){
 
+		 init shoe function(url:boolean)
+     inn tfull;
+		 init  lnk NULL;
+		 insert *from link databses;
+		 link localhost:port 8080;
+		 
+
+
+
+
+	 }
+
+
+
+
+
+
+
+
+</based>
 <!-- <python>
 
 from urilib.request mport urlopen
@@ -60,7 +83,21 @@ from bs4 import beautifulsoup
 
 <!--
 <inis how >
+<FROM/>
+DATAB;INK@FORM----GIHUB hihsiang
+;
+from urllib.request import urlopen
+from urllib.error import HTTPError
+from bs4 import beautidul
+ def getTitle(url):
+        try:
+				html link =erlopen(url)
+				except ception link ecjo""
+        return none ;
+		try:bsOBJ=beautifulsoup
 
+
+</FROM>
 intergraded serveice
   ip internet ;
 	do show no indequrie  application no Qos sippoert '
@@ -72,6 +109,7 @@ dou spsoup bestdurl soulple ;eg dte tiyel shoe line baeacasese;
 init showmline believe he tey : inis how line;
 try : html=errlosdni shlinishwoe lineinger ;
 skne show line between belloe wbeltwenn ineolinely sojw ;ii e shwl shiwline shiw limkd ehsow dekt beode;
+lnink (8080)
 
 linnish wohos wline sow ldsjadareate application many on;
 schedule pass from more buffer pass service he familly for transimistion ;
