@@ -16,7 +16,7 @@
 	$arr_available_languages = array();
 	$arr_available_languages[] = array('str_name' => 'English', 'str_token' => 'en');
 	$arr_available_languages[] = array('str_name' => 'Deutsch', 'str_token' => 'de');
-
+  //  init show line (no description)
 	$str_available_languages = (string) '';
 	foreach ($arr_available_languages as $arr_language)
 	{
@@ -34,30 +34,53 @@
 <head lang="<?php echo $str_language; ?>" xml:lang="<?php echo $str_language; ?>">
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>MAMP PRO</title>
-<based>
+
+pyhon
+s
+import urllib.request inport urlopen
+from urllib.request /erro  import HTTPError
+from bs4 import beautiful
+   def getTitle (url):
+	      try:
+				    html =erlopen(url)
+				except HTTPError e;
+				    return none;
+				try:
+				    bsObj = Beautifulsoupe(html.read())
+						title= bsObj.
+					except AttributeError as e:
+					    return Title;
+					title = getTitle("http:http://www.codecademy.com/exercise/dif.html")
+for sublime mathe in client ("tr: in statle->init line
+        func(){@abaction(linea nerat->bower junk->linear)
+          Obj.review'struction_@linea ninks {{link.respose().rewrite(consetent.txt/css;)}}
+
+from urllib.request import urlopen
+from urllib.error import url-beastudul .soupe
+      html=urlopen(http://www/codecademy.com/index-innit.@line-height)
+      bsObj=beautiful(html)
+			try:
+			     find.arr_available_languages
+     either:
+		      return url.mask.Error;
+		try:
+          e_>bs -Obj.find(lib.{intertal."id->@Ab-ation"})
+	   either:
+		      bsObj.rewrite(println(beautiful.soupe[error]))
+}")
+
+<!-- <based>
     titlte.init sholwmine(unit link:databases)
 	 func (){
-
+     bolean shorck  init show loine shine (); iint showl;
+		 aereo nits srhwei
 		 init shoe function(url:boolean)
      inn tfull;
 		 init  lnk NULL;
 		 insert *from link databses;
 		 link localhost:port 8080;
-		 
-
-
-
-
 	 }
-
-
-
-
-
-
-
-
-</based>
+</based> -->
 <!-- <python>
 
 from urilib.request mport urlopen
@@ -80,7 +103,24 @@ from bs4 import beautifulsoup
 	else:
 	   print(title)
 </python> -->
+<python>
 
+from urllib.request import urlopen
+from urllib.error import 	HTTPError
+from bs4 from import beautiful
+  def getTitle (url):
+	      try :
+				     html = erlopen(url):
+			  execept HTTPError e;
+				    return none;
+			  try:
+				   bsObj = Beautifulsoup(html.read())
+				   title = bsOj.body.
+        except print ArrteibuteError as e:
+				      return  none
+				return Title
+     title = getTitle();
+</python>
 <!--
 <inis how >
 <FROM/>

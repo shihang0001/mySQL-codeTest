@@ -35,7 +35,6 @@ imprt ui init;
   line inis show tables;
 ssssssss
 init shoe line cd databases
-dddd
 
 xxxxx
 line show discuss nishowl line showkdalkasdasdabdabdada;
