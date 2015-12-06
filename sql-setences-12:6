@@ -1,0 +1,10 @@
+select value from databases;
+CREATE TABLE[abs] [value-contains](
+    [It_code][varchar](20)
+
+
+
+
+
+
+)
