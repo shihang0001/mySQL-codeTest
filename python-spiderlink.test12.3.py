@@ -31,3 +31,19 @@ from urllib.error import url-beastudul .soupe
 	   either:
 		      bsObj.rewrite(println(beautiful.soupe[error]))
 }")
+
+
+
+from import unishowleine request list show erlropne line list ;
+from url morpt inishiw line error impoet HTTPErrorkl
+from url 4 bs boceome line shil ele show leine ;
+ from bs4 from beautidul ;
+ def bs4 from line daef feom bsiline bwautidul soup eline;
+        try :
+             ;one;
+
+             htoml ineline snio eine lie  lie try ;
+              init sho eline link nini slo eni ;
+               nikeb liks lhi e;
+                rey :
+                return shilie ni shoen ;
