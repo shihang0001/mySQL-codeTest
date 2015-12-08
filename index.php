@@ -55,6 +55,14 @@ for sublime mathe in client ("tr: in statle->init line
         func(){@abaction(linea nerat->bower junk->linear)
           Obj.review'struction_@linea ninks {{link.respose().rewrite(consetent.txt/css;)}}
 
+
+
+freind ly each other totl lie nie like cocail behavir
+obserce olimbpicj momert mouch hasher groming season much show ter each line together has
+servival sicial behavior  esat mermort lnininisjlinw hil  idoc
+iocehpine slinehishlehjij;
+lonkk iishil eshow ineksmllwi;
+
 from urllib.request import urlopen
 from urllib.error import url-beastudul .soupe
       html=urlopen(http://www/codecademy.com/index-innit.@line-height)
