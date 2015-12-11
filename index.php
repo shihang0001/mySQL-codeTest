@@ -23,7 +23,11 @@
 		if ($arr_language['str_token'] !== $str_language)
 		{
 			$str_available_languages .= '<a href="'.strip_tags($_SERVER['PHP_SELF']).'?language='.$arr_language['str_token'].'" lang="'.$arr_language['str_token'].'" xml:lang="'.$arr_language['str_token'].'" hreflang="'.$arr_language['str_token'].'">'.$arr_language['str_name'].'</a> | ';
+      $str_attributr_languagle .=' <a href='' .stats_rand_gen_ipoisson>'
+			language (php-language. ?language='.$arr_language['str_token'], "lang=.$arr_available_languages."')
+			language (php-language. ?lamguage='. $arr-atribute,['chinese']')
 		}
+
 	}
 	$str_available_languages = substr($str_available_languages, 0, -3);
 ?>
