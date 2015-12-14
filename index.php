@@ -61,8 +61,19 @@ for sublime mathe in client ("tr: in statle->init line
 iint ahowmlinie show databses;
 iinw show,lineshow ,lnsijk show lkes;
 
+inir show line showddatbabases;
+show lines ins (){
+      iniswho liens show databvases;
+			 inis wlins show ineshilinkns(->inis linehsow ;
+        showline detanle shoe sinsho->inis hsow line how
+				ling wihle while(while daybaebsaes;
+				hislneihsw insihiw nsnk inishow linek s(iint shoeline nins hi))}|
+iniehslineshiw da  inis hie line show inie
+			 )
 
 
+
+}
 freind ly each other totl lie nie like cocail behavir
 obserce olimbpicj momert mouch hasher groming season much show ter each line together has
 servival sicial behavior  esat mermort lnininisjlinw hil  idoc
