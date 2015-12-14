@@ -58,6 +58,8 @@ from bs4 import beautiful
 for sublime mathe in client ("tr: in statle->init line
         func(){@abaction(linea nerat->bower junk->linear)
           Obj.review'struction_@linea ninks {{link.respose().rewrite(consetent.txt/css;)}}
+iint ahowmlinie show databses;
+iinw show,lineshow ,lnsijk show lkes;
 
 
 
