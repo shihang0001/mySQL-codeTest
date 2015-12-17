@@ -217,7 +217,7 @@ import urllib2.request().
 
 cold start condition always sstheresure init show line
 trachote value init show increase the packet linear poit 3acks
-back forward the init line of the ack back foward init show
+back foddddrward the init line of the ack back foward init show
 
 
 case 'en'
