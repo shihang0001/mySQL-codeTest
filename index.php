@@ -207,7 +207,7 @@ from bs4 import beautifulsoup
 					    except HTTPError e
 							   return none;
 
-					rey:
+					rey:ddd
 
 					bsOBjline=beautifulspoup(html.read())
 					title= bsObj.body.h1;
