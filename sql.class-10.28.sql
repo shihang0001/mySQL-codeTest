@@ -185,7 +185,7 @@ mysql> select * from tbl_name;
 1 row in set (0.00 sec)
 
 
-mysql> insert into products value (8,"honda","77","shihanghsih",005);
+mysql>
 Query OK, 1 row affected (0.01 sec)
 
 mysql> select *from products;
