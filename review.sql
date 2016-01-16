@@ -14,7 +14,27 @@ create table tavlename(
       reportto int(11) default null,
       Primary key (emplyee number)
 );
+create table  tablesie{
+    emplyee int(10) not null,
+    lastname cahr(60) not null,
+    report char(80) not null,
+    catret e ine show deatabesl
+    link s who seelct from *from
+    upadeta inetrs  (value insiwho show =="inie ")
+     insert into product value(){
+        emplyee insert(80) not null
+        emplye insert sect from *from siwnihse lonksdfa;
+        link select from &from sdatadbesadsa;
+        inie show link reaploppproc
+        primary key (emlyee id_init)
+        
 
+
+
+       }
+
+
+  }
 CREATE TABLE table()
 
 create table time ('t1' TIMESTAMP);
@@ -80,6 +100,13 @@ create [unique full text special index index_name]
   select status from order group by status select status count(*)
   from orders group by status
 
+
+create table init{
+  emplyee int(10) not null,
+  lastname char(50) not null,
+  reportto int(11) default null,
+  Primary key (emplyee number)
+}
   insert into clssroom value)city,)
 
     insert into temple select *from office where counrty ='us'
@@ -94,7 +121,15 @@ create [unique full text special index index_name]
 
     current_timestep;
 
+create table need_table{
+     shop int(20) NOT NULL,
+     emplyee int(10) not null,
+     lastname char(50) not null,
+     reportto int(11) default null,
+     Primary key (emplyee number)
 
+
+  }
 
 crete produce (var lune inie char (1092))
 begin declear i int dufsuly from int pc init en where set str =i+i;
